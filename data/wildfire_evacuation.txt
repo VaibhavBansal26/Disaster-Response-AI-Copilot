@@ -1,0 +1,18 @@
+Wildfire Evacuation Guide
+=========================
+Scope: Wildland-urban interface (WUI) incidents.
+
+Immediate Actions
+1. Issue evacuation orders by zones (A/B/C) with clear routes.
+2. Coordinate traffic control at chokepoints; contraflow if needed.
+3. Set structure triage: defendable vs. non-defendable.
+4. Air quality monitoring (AQI); distribute N95s; open clean-air shelters.
+5. Utilities: consider public safety power shutoffs (PSPS).
+
+Operational Considerations
+- Night operations staffing; lookout communications; wind shift briefings.
+- Spot fire detection and rapid initial attack resources.
+- Public messaging templates (social, SMS, IPAWS).
+
+Citations/References
+- Local CWPP (Community Wildfire Protection Plan) and evacuation zone map.

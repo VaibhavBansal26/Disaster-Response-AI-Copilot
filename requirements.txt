@@ -1,0 +1,21 @@
+streamlit==1.38.0
+python-dotenv==1.0.1
+requests==2.32.3
+pandas==2.2.2
+pydeck==0.9.1
+reportlab==4.2.2
+
+# NEW: Azure SDKs for your agent code
+azure-ai-projects>=0.21.0
+azure-identity>=1.17.1
+azure-core
+azure-identity
+azure-ai-projects
+azure-ai-agents
+opencensus-ext-azure
+azure.identity
+# azure.ai
+azure-search-documents
+tiktoken
+openai>=1.40.0
+azure-core

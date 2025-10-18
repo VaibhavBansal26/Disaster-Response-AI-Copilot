@@ -1,0 +1,201 @@
+text,disaster_type,priority,category
+"Jacksonville, FL: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Houston, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"San Antonio, TX: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"San Antonio, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Charleston, SC: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Austin, TX: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Miami, FL: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Miami, FL: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"New Orleans, LA: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Jacksonville, FL: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Miami, FL: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Houston, TX: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Charleston, SC: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Charleston, SC: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Austin, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Houston, TX: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Charleston, SC: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Jacksonville, FL: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"San Diego, CA: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Austin, TX: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Houston, TX: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Dallas, TX: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Houston, TX: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"San Diego, CA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Dallas, TX: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Miami, FL: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Austin, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Miami, FL: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Charleston, SC: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Phoenix, AZ: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Miami, FL: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Miami, FL: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Miami, FL: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Charleston, SC: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"San Diego, CA: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Los Angeles, CA: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Los Angeles, CA: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Tampa, FL: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Charleston, SC: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Charleston, SC: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Charleston, SC: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Phoenix, AZ: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Miami, FL: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Houston, TX: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Dallas, TX: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Tampa, FL: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Austin, TX: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Los Angeles, CA: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"San Diego, CA: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"San Antonio, TX: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Austin, TX: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Miami, FL: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Sacramento, CA: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Miami, FL: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Dallas, TX: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Miami, FL: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Sacramento, CA: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"New Orleans, LA: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Houston, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Charleston, SC: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Austin, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Tampa, FL: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Sacramento, CA: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"San Diego, CA: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Miami, FL: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"San Antonio, TX: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Jacksonville, FL: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"New Orleans, LA: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Sacramento, CA: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Sacramento, CA: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Houston, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"New Orleans, LA: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Dallas, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Charleston, SC: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Los Angeles, CA: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"San Diego, CA: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Austin, TX: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Los Angeles, CA: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Dallas, TX: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Jacksonville, FL: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Austin, TX: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Sacramento, CA: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Austin, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Charleston, SC: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"New Orleans, LA: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Austin, TX: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Jacksonville, FL: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"San Diego, CA: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"San Antonio, TX: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Sacramento, CA: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"San Antonio, TX: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Sacramento, CA: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Houston, TX: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Miami, FL: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"San Antonio, TX: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Houston, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Sacramento, CA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"New Orleans, LA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"New Orleans, LA: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Sacramento, CA: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Austin, TX: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Houston, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Miami, FL: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Sacramento, CA: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Phoenix, AZ: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Dallas, TX: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Tampa, FL: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Austin, TX: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Miami, FL: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"San Diego, CA: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Phoenix, AZ: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Miami, FL: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Sacramento, CA: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"San Diego, CA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"New Orleans, LA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Los Angeles, CA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"New Orleans, LA: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Los Angeles, CA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Jacksonville, FL: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Phoenix, AZ: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"San Antonio, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Austin, TX: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"San Antonio, TX: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Los Angeles, CA: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Austin, TX: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Phoenix, AZ: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Charleston, SC: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"San Antonio, TX: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"San Antonio, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Jacksonville, FL: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Austin, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Miami, FL: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Jacksonville, FL: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Los Angeles, CA: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Sacramento, CA: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Sacramento, CA: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"New Orleans, LA: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"San Diego, CA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Miami, FL: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"San Diego, CA: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Miami, FL: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Phoenix, AZ: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Miami, FL: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Phoenix, AZ: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"San Antonio, TX: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Miami, FL: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Sacramento, CA: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Phoenix, AZ: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Jacksonville, FL: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"New Orleans, LA: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"San Antonio, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Houston, TX: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"San Diego, CA: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Phoenix, AZ: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Jacksonville, FL: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Dallas, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Dallas, TX: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Dallas, TX: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Tampa, FL: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Charleston, SC: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Dallas, TX: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Miami, FL: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Sacramento, CA: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"San Diego, CA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Dallas, TX: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"San Diego, CA: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"Phoenix, AZ: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Dallas, TX: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Austin, TX: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Sacramento, CA: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Tampa, FL: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Tampa, FL: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Los Angeles, CA: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Austin, TX: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"Austin, TX: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Austin, TX: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"Austin, TX: Smoke impacts worsening; AQI over 180; distribute N95 masks.",wildfire,medium,air_quality
+"Austin, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Sacramento, CA: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Los Angeles, CA: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"New Orleans, LA: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Charleston, SC: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"San Antonio, TX: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"San Antonio, TX: Flooded roadway reported; barricades installed; avoid underpasses.",flood,medium,road_closure
+"San Diego, CA: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Tampa, FL: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"New Orleans, LA: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Jacksonville, FL: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Jacksonville, FL: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"Austin, TX: Fast-moving fire near homes; evacuation order for Zone C.",wildfire,high,evacuation
+"Phoenix, AZ: Waterborne illness concerns after sewer overflow; clinics on alert.",flood,high,medical
+"Charleston, SC: Community shelter opened at high school gym; capacity at 60%.",flood,medium,shelter
+"Charleston, SC: Preventive shutoff to reduce ignition risk; cooling centers open.",wildfire,medium,power_outage
+"New Orleans, LA: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Phoenix, AZ: Substation impacted by floodwater; outage across several blocks.",flood,medium,power_outage
+"San Antonio, TX: Highway closed due to poor visibility; reroute traffic.",wildfire,medium,road_closure
+"Charleston, SC: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Miami, FL: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation
+"San Antonio, TX: Rising water near homes; voluntary evacuations recommended for Zone A.",flood,high,evacuation
+"Jacksonville, FL: Additional crews requested for perimeter containment.",wildfire,low,resource_allocation

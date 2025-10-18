@@ -1,0 +1,25 @@
+event_id,date,disaster_type,latitude,longitude,location_text,description,source_url
+E0001,2025-10-05,flood,30.4145,-97.7113,"Austin, TX",Flash flood warning in effect; vehicles stranded at underpass.,https://example.org/source
+E0002,2025-10-17,flood,33.6053,-112.1845,"Phoenix, AZ",Flash flood warning in effect; vehicles stranded at underpass.,https://example.org/source
+E0003,2025-10-17,flood,33.6035,-112.1702,"Phoenix, AZ",Urban flooding reported near low-lying neighborhoods; multiple street closures.,https://example.org/source
+E0004,2025-09-22,flood,33.9404,-118.3401,"Los Angeles, CA",Flash flood warning in effect; vehicles stranded at underpass.,https://example.org/source
+E0005,2025-09-21,wildfire,33.2732,-112.1523,"Phoenix, AZ",Containment at 30%; terrain and wind complicate operations.,https://example.org/source
+E0006,2025-10-06,flood,32.9209,-79.7807,"Charleston, SC",Flash flood warning in effect; vehicles stranded at underpass.,https://example.org/source
+E0007,2025-10-11,flood,32.8019,-96.8649,"Dallas, TX",Urban flooding reported near low-lying neighborhoods; multiple street closures.,https://example.org/source
+E0008,2025-10-11,flood,38.5561,-121.6648,"Sacramento, CA",River levels rising after heavy rainfall; sandbag operations underway.,https://example.org/source
+E0009,2025-10-11,wildfire,30.4556,-81.6071,"Jacksonville, FL",Wildfire approaching residential area; spot fires detected.,https://example.org/source
+E0010,2025-10-17,flood,29.769,-95.3553,"Houston, TX",Urban flooding reported near low-lying neighborhoods; multiple street closures.,https://example.org/source
+E0011,2025-09-26,flood,32.5931,-96.7343,"Dallas, TX",Storm surge affecting coastal areas; evacuation routes monitored.,https://example.org/source
+E0012,2025-10-14,flood,38.7296,-121.567,"Sacramento, CA",Urban flooding reported near low-lying neighborhoods; multiple street closures.,https://example.org/source
+E0013,2025-10-13,flood,30.3006,-97.7869,"Austin, TX",River levels rising after heavy rainfall; sandbag operations underway.,https://example.org/source
+E0014,2025-10-04,wildfire,30.0797,-97.927,"Austin, TX",Brush fire spreading due to high winds; embers observed across highway.,https://example.org/source
+E0015,2025-10-18,wildfire,29.5097,-98.3813,"San Antonio, TX",Containment at 30%; terrain and wind complicate operations.,https://example.org/source
+E0016,2025-09-24,flood,32.8314,-79.9707,"Charleston, SC",Storm surge affecting coastal areas; evacuation routes monitored.,https://example.org/source
+E0017,2025-10-10,wildfire,30.2971,-81.6251,"Jacksonville, FL",Containment at 30%; terrain and wind complicate operations.,https://example.org/source
+E0018,2025-10-05,wildfire,33.9023,-118.2557,"Los Angeles, CA",Brush fire spreading due to high winds; embers observed across highway.,https://example.org/source
+E0019,2025-10-07,flood,32.9177,-79.9837,"Charleston, SC",Flash flood warning in effect; vehicles stranded at underpass.,https://example.org/source
+E0020,2025-10-12,flood,29.7506,-95.1938,"Houston, TX",Urban flooding reported near low-lying neighborhoods; multiple street closures.,https://example.org/source
+E0021,2025-09-18,flood,33.5208,-112.1128,"Phoenix, AZ",Storm surge affecting coastal areas; evacuation routes monitored.,https://example.org/source
+E0022,2025-09-25,wildfire,25.8703,-79.9988,"Miami, FL",Air quality deteriorating; advise N95 masks for outdoor workers.,https://example.org/source
+E0023,2025-10-15,flood,33.3956,-112.2507,"Phoenix, AZ",Flash flood warning in effect; vehicles stranded at underpass.,https://example.org/source
+E0024,2025-09-24,flood,32.5181,-117.3124,"San Diego, CA",River levels rising after heavy rainfall; sandbag operations underway.,https://example.org/source
