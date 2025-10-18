@@ -50,6 +50,16 @@
 # app/pages/dashboard.py
 import streamlit as st
 import pandas as pd
+import sys, pathlib
+ROOT = pathlib.Path(__file__).resolve().parents[2]  # repo root
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+try:
+    import app, app.utils.agent_client as ac
+    st.success("Imported app and app.utils.agent_client OK")
+except Exception as e:
+    st.error(f"Import failed: {e}")
 
 from app.utils.data import load_events  # your loader
 from app.utils.maps import build_deck

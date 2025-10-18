@@ -1,4 +1,9 @@
 import io, datetime, pandas as pd, streamlit as st
+import sys, pathlib
+ROOT = pathlib.Path(__file__).resolve().parents[2]  # repo root
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 from reportlab.lib.pagesizes import LETTER
 from reportlab.pdfgen import canvas
 from app.utils.data import load_events

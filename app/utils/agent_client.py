@@ -142,10 +142,10 @@ import os
 from functools import lru_cache
 from typing import Dict, Optional
 
-import sys, pathlib
-ROOT = pathlib.Path(__file__).resolve().parents[2]
-if str(ROOT) not in sys.path:
-    sys.path.insert(0, str(ROOT))
+# import sys, pathlib
+# ROOT = pathlib.Path(__file__).resolve().parents[2]
+# if str(ROOT) not in sys.path:
+#     sys.path.insert(0, str(ROOT))
 
 
 # from dotenv import load_dotenv
