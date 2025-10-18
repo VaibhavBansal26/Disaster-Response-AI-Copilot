@@ -142,8 +142,8 @@ import os
 from functools import lru_cache
 from typing import Dict, Optional
 
-from dotenv import load_dotenv
-load_dotenv()  # ensure .env is loaded for local runs
+# from dotenv import load_dotenv
+# load_dotenv()  # ensure .env is loaded for local runs
 
 from azure.identity import DefaultAzureCredential
 from azure.ai.projects import AIProjectClient
