@@ -64,7 +64,7 @@ except Exception as e:
 from app.utils.data import load_events  # your loader
 from app.utils.maps import build_deck
 
-st.set_page_config(page_title="Incident Dashboard", page_icon="📊", layout="wide")
+# st.set_page_config(page_title="Incident Dashboard", page_icon="📊", layout="wide")
 st.title("📊 Incident Dashboard")
 
 # ---------------- Controls ----------------
