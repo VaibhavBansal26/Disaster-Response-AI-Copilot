@@ -47,7 +47,8 @@ from app.utils.agent_client import call_agent
 st.set_page_config(page_title="Ask Agent", page_icon="🧠", layout="centered")
 st.title("🧠 Ask Agent")
 
-
+default_q = st.session_state.pop("prefill_question", "Summarize the latest disaster risks in my region.")
+q = st.text_area("Your question", default_q, height=120)
 
 with st.container():
     prompt = st.text_input(
