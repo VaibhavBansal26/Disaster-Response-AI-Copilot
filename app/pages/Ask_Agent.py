@@ -36,8 +36,8 @@
 
 # app/pages/ask_agent.py
 import streamlit as st
-from dotenv import load_dotenv
-load_dotenv()  # load .env for local runs
+# from dotenv import load_dotenv
+# load_dotenv()  # load .env for local runs
 
 from app.utils.agent_client import call_agent
 
